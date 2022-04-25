@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-25T10:48:30Z" name="Default suite" finished-at="2022-04-25T10:48:43Z" duration-ms="13453">
+    <groups>
+    </groups>
+    <test started-at="2022-04-25T10:48:30Z" name="Default test" finished-at="2022-04-25T10:48:43Z" duration-ms="13453">
+      <class name="testcases.ProjectRest">
+        <test-method signature="deleteMethod()[pri:0, instance:testcases.ProjectRest@7357a011]" started-at="2022-04-25T16:18:30Z" name="deleteMethod" description="Delete Method" finished-at="2022-04-25T16:18:32Z" duration-ms="2178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteMethod -->
+        <test-method signature="getGenericMethod()[pri:0, instance:testcases.ProjectRest@7357a011]" started-at="2022-04-25T16:18:32Z" name="getGenericMethod" description="to demostarte the get method" finished-at="2022-04-25T16:18:34Z" duration-ms="2386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getGenericMethod -->
+        <test-method signature="postMethod()[pri:0, instance:testcases.ProjectRest@7357a011]" started-at="2022-04-25T16:18:34Z" name="postMethod" description="post Method" finished-at="2022-04-25T16:18:35Z" duration-ms="1269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postMethod -->
+        <test-method signature="postMethodWithjsonFile()[pri:0, instance:testcases.ProjectRest@7357a011]" started-at="2022-04-25T16:18:35Z" name="postMethodWithjsonFile" description="post Method with json file" finished-at="2022-04-25T16:18:37Z" duration-ms="1254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postMethodWithjsonFile -->
+        <test-method signature="putMethod()[pri:0, instance:testcases.ProjectRest@7357a011]" started-at="2022-04-25T16:18:37Z" name="putMethod" description="put Method" finished-at="2022-04-25T16:18:38Z" duration-ms="1267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putMethod -->
+        <test-method signature="putMethodWithjsonFile()[pri:0, instance:testcases.ProjectRest@7357a011]" started-at="2022-04-25T16:18:38Z" name="putMethodWithjsonFile" description="put Method with json file" finished-at="2022-04-25T16:18:39Z" duration-ms="1293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putMethodWithjsonFile -->
+        <test-method signature="verificationcode404()[pri:0, instance:testcases.ProjectRest@7357a011]" started-at="2022-04-25T16:18:39Z" name="verificationcode404" description="POST,GET,PUT,DELETE Method" finished-at="2022-04-25T16:18:43Z" duration-ms="3784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificationcode404 -->
+      </class> <!-- testcases.ProjectRest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
